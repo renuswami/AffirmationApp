@@ -6,7 +6,8 @@ Solution code for the Android Basics with Compose: Affirmations app.
 
 Introduction
 ------------
-The Affirmations app contains a scrollable list of 10 cards.
+* Affirmations app, which displays a list of affirmations paired with beautiful images.
+* The Affirmations app contains a scrollable list of 10 cards.
 
 
 Pre-requisites
