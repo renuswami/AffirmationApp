@@ -1,27 +1,18 @@
-Affirmations App - Solution Code
-================================
+# Affirmations App
 
-Solution code for the Android Basics with Compose: Affirmations app.
+* The Affirmations app is designed to bring positivity to your day by displaying a list of affirmations paired with beautiful images.
+This simple and user-friendly app aims to uplift your mood and encourage positive thinking.
 
+## Features
 
-Introduction
-------------
-* Affirmations app, which displays a list of affirmations paired with beautiful images.
-* The Affirmations app contains a scrollable list of 10 cards.
+* Display a list of affirmations with corresponding images.
+* Users can scroll through the list to view different affirmations.
+* Each affirmation is paired with a visually appealing image to enhance the user experience.
+* Easy navigation and intuitive interface for a seamless user experience.
 
+## Technologies Used
 
-Pre-requisites
---------------
-* Familiarity with Lists in Kotlin
-* Experience building layouts with Jetpack Compose
-* Experience running apps on a device or emulator
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
-
-All photos by Romain Guy. All photos are licensed under CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
+* Kotlin programming language for Android app development.
+* Material Design components for a modern and visually appealing UI.
+  
+## Screenshots
