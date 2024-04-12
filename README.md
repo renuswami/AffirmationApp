@@ -16,3 +16,6 @@ This simple and user-friendly app aims to uplift your mood and encourage positiv
 * Material Design components for a modern and visually appealing UI.
   
 ## Screenshots
+
+![Screenshot 2024-04-11 232156](https://github.com/renuswami/AffirmationApp/assets/121007900/b941265b-f487-4530-8bba-0461a961380f)
+
